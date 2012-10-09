@@ -1,9 +1,9 @@
-
 public class HelloWorld {
 	
   public String hello()
   {
-	  return "Welcome to the new era";
+	 System.out.println("This is Sysc3110 test code.")
+	 return "Welcome to the new era";
   }
 
 }
