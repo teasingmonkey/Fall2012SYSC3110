@@ -3,7 +3,7 @@ public class HelloWorld {
 	
   public String hello()
   {
-	  return "GoodBye";
+	  return "Welcome to the new era";
   }
 
 }
